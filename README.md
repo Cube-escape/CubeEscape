@@ -1,4 +1,4 @@
-# CubeEscape_exe
+# CubeEscape
 2021 KING Summer Project : Making Horror room Escape 
 
 ![prologue](https://user-images.githubusercontent.com/86418674/133050645-96496921-239c-4a7e-b552-22d85a2ffabc.png)
