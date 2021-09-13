@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e940b7c9d78e74c42ae136d11724191d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arm: {instanceID: 0}
+  - blinkPanel: {instanceID: 0}
+  - interactionUI: {instanceID: 0}
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - dialog1Trigger: {instanceID: 0}
+  - dialogBtn: {instanceID: 0}
+  - dialog1Camera: {instanceID: 0}
+  - monitor: {instanceID: 0}
+  - firstBgm: {fileID: 8300000, guid: 889196be6db6ee04797634d4a6fa2c18, type: 3}
+  - secondBgm: {fileID: 8300000, guid: 160b43e1dec6d6d4e9ddbec68c24ef77, type: 3}
+  - glitch: {fileID: 8300000, guid: b87509b1897d33f4c92d6fac8021eea8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
