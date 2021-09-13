@@ -1,7 +1,7 @@
 # CubeEscape
 2021 KING Summer Project : Making Horror room Escape 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XaHfOkf_mpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![play video](https://user-images.githubusercontent.com/86418674/133050706-94e4185b-424b-40fb-b2c3-93ba0d55e80a.png)](https://www.youtube.com/watch?v=XaHfOkf_mpI)
 
 ![prologue](https://user-images.githubusercontent.com/86418674/133050645-96496921-239c-4a7e-b552-22d85a2ffabc.png)
 ![개요](https://user-images.githubusercontent.com/86418674/133050691-43293dd3-bdc0-402e-ba50-ca54b60f61cf.png)
