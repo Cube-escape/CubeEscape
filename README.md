@@ -3,9 +3,11 @@
 
 [![play video](https://user-images.githubusercontent.com/86418674/133050706-94e4185b-424b-40fb-b2c3-93ba0d55e80a.png)](https://www.youtube.com/watch?v=XaHfOkf_mpI)
 
+🔼 click above image to see play video!
+
 ![prologue](https://user-images.githubusercontent.com/86418674/133050645-96496921-239c-4a7e-b552-22d85a2ffabc.png)
 ![개요](https://user-images.githubusercontent.com/86418674/133050691-43293dd3-bdc0-402e-ba50-ca54b60f61cf.png)
-![메인메뉴](https://user-images.githubusercontent.com/86418674/133050706-94e4185b-424b-40fb-b2c3-93ba0d55e80a.png)
+
 ![1](https://user-images.githubusercontent.com/86418674/133050728-ea3ffca9-c360-47e9-93ce-e8322ffbbafc.png)
 ![2](https://user-images.githubusercontent.com/86418674/133050733-a6d7df47-584c-48d1-a1ab-55dce000848b.png)
 ![3](https://user-images.githubusercontent.com/86418674/133050754-95652c68-3677-4010-9304-16a348616c2c.png)
